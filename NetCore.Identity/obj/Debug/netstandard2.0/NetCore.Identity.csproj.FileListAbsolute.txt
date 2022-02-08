@@ -1,0 +1,10 @@
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.csproj.CoreCompileInputs.cache
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.AssemblyInfoInputs.cache
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.AssemblyInfo.cs
+E:\.NET\IdentityServer\NetCore.Identity\bin\Debug\netstandard2.0\NetCore.Identity.deps.json
+E:\.NET\IdentityServer\NetCore.Identity\bin\Debug\netstandard2.0\NetCore.Identity.dll
+E:\.NET\IdentityServer\NetCore.Identity\bin\Debug\netstandard2.0\NetCore.Identity.pdb
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.dll
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.pdb
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.csproj.AssemblyReference.cache
+E:\.NET\IdentityServer\NetCore.Identity\obj\Debug\netstandard2.0\NetCore.Identity.GeneratedMSBuildEditorConfig.editorconfig

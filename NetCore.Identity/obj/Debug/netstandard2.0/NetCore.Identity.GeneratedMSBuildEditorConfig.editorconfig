@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetCore.Identity
+build_property.ProjectDir = E:\.NET\IdentityServer\NetCore.Identity\

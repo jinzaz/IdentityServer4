@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9thUBeirVAob7Fo1C5fRwPgIDIXiU1P+yRI2n0t6/cHp1rXRi4GIZx0uLfubHPin8tvxOND/PucguY0DpDvjA==",
+  "success": true,
+  "projectFilePath": "E:\\.NET\\IdentityServer\\NetCore.Identity\\NetCore.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
